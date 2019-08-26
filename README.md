@@ -9,6 +9,7 @@ start and end journey through the device. Complete route map should be shown to 
 the journey along with the path taken by him. On end of the trip, all the geo-coordinates should
 be sent to server as list of dictionaries in JSON. 
 E.g.
+
 [{
 "lat":"sourabh3",
 "lng":"s3",
