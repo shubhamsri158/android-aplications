@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DigitalGreen</string>
+    <string name="title_activity_maps">DigitalGreen</string>
+    <string name="Cancel">Cancel</string>
+    <string name="open_location_settings">Location Settings</string>
+    <string name="gps_network_not_enabled">GPS network is not enabled. Please try opening in Location Settings.</string>
+    <string name="start_trip">Start trip</string>
+    <string name="stop_trip">STOP TRIP</string>
+    <string name="access_token" translatable="false">YOUR_MAPBOX_ACCESS_TOKEN</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+</resources>
